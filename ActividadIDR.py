@@ -26,4 +26,5 @@ while min1 <= 5:
 hora2 = 0
 hora_1 += 1
 
-print ("El tiempo es " + "01:00:00")
+print ("El tiempo es " + "1:00:00")
+
